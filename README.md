@@ -1,7 +1,9 @@
 
 ---
 
-# **Skyline Emergent: A New Era of Artificial General Intelligence (AGI)**  
+# **Skyline Emergent: 
+A New Era of Artificial General Intelligence 
+(AGI)**  
 
 ### **By Chris Brown (rainmanp7)**  
 
