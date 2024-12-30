@@ -1,11 +1,8 @@
 
 ---
-
-# **Skyline Emergent: 
-A New Era of Artificial General Intelligence 
-(AGI)**  
-
-### **By Chris Brown (rainmanp7)**  
+# Skyline Emergent: 
+**A New Era of Artificial General Intelligence 
+(AGI)**
 
 ## **Overview**  
 This repository demonstrates a groundbreaking approach to Artificial General Intelligence (AGI) by leveraging **Emergent Autonomous Entities (EAE)**—self-organizing, adaptable systems that can:  
@@ -138,5 +135,6 @@ This project is open-source and available under the [MIT License](LICENSE).
 ---
 
 ````
+By Chris Brown (rainmanp7)
 Original Location of these invented creations.
 Maliguya, SantaCruz, Davao Del Sur, Mindanao, Philippines 
