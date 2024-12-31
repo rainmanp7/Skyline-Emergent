@@ -138,3 +138,11 @@ This project is open-source and available under the [MIT License](LICENSE).
 By Chris Brown (rainmanp7)
 Original Location of these invented creations.
 Maliguya, SantaCruz, Davao Del Sur, Mindanao, Philippines 
+
+
+
+
+
+Where can you find out more?
+Conway's Game of Life
+https://en.m.wikipedia.org/wiki/Conway%27s_Game_of_Life
