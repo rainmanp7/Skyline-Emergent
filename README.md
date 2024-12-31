@@ -4,7 +4,9 @@
 **A New Era of Artificial General Intelligence 
 (AGI)**
 
-## **Overview**  
+## **Overview** 
+((- "look in the folders" -))
+
 This repository demonstrates a groundbreaking approach to Artificial General Intelligence (AGI) by leveraging **Emergent Autonomous Entities (EAE)**—self-organizing, adaptable systems that can:  
 - **Build themselves** dynamically.  
 - **Morph their framework** to optimize performance.  
